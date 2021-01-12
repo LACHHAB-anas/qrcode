@@ -24,7 +24,6 @@ qr_btn.addEventListener("click", () => {
         qr_img.alt = input
         image.src = url
         a.href  = url+"&download=1"
-       
 
     }
    
