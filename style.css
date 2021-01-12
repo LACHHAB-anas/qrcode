@@ -82,3 +82,7 @@ button:active {
     transform: rotate(360deg);
   }
 }
+
+#help {
+  display: none;
+}
